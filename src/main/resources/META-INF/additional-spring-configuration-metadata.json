@@ -1,0 +1,14 @@
+{
+  "properties": [
+    {
+      "name": "polling.rate",
+      "type": "java.lang.String",
+      "description": "Determines how often the scheduler will look for jobs."
+    },
+    {
+      "name": "queue.job",
+      "type": "java.lang.String",
+      "description": "Name of the queue holding the jobs to be executed."
+    }
+  ]
+}
